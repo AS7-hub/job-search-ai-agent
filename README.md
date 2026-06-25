@@ -37,7 +37,7 @@ This multi-agent job search system automates the tedious parts of applying to jo
 4. **Configure your Environment Variables:**
    > **Note:** The `.env` file is explicitly ignored by Git to protect your secrets. You must create your own!
    
-   Create a new file named `.env` in the root directory and add your keys (you can copy the format from `.env.example`):
+   Create a new file named  `.env` in the root directory and add your keys (you can copy the format from `.env.example`):
    ```env
    GEMINI_API_KEY=your_gemini_key_here
    USAJOBS_API_KEY=your_usajobs_key_here
